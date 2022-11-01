@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmbarrios27
 - Panama City
-- 👀 I’m interested in Data Science, Sports, Investigations, Open Science, NLP.
+- 👀 I’m interested in Data Science, Sports, Investigations, Open Science, NLP, Image PRocessing, Analysis and Classification.
 - 🌱 I’m currently learning A deeper knowledge on Cloud Computing.
 - 📫 How to reach me josemax277@gmail.com, José Max Barrios on LinkedIn.
 
